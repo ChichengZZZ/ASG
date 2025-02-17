@@ -182,3 +182,4 @@ _Parameter description_
 
 
 ## Result 
+![image](https://github.com/ChichengZZZ/ASG/blob/master/data/img/baseline_adversarial_reward.png)
